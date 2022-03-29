@@ -8,7 +8,6 @@ public class RestApiTest {
 	public void RestApiTest1() {
 		System.out.println("RestApiTest1");
 		System.out.println("RestApiTest1");
-		System.out.println("RestApiTest1");
 	}
 	
 	

@@ -6,7 +6,9 @@ public class RestApiTest {
 	
 	@Test
 	public void RestApiTest1() {
-		System.out.println("RestApiTest1");		
+		System.out.println("RestApiTest1");
+		System.out.println("RestApiTest1");
+		System.out.println("RestApiTest1");
 	}
 	
 	
